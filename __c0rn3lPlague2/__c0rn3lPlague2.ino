@@ -9,6 +9,8 @@
  * All commented in the patload
  * !!!IMPORTANT -> for this payload you need to use a ftp server ->
  * there s where the data will be sent
+ * Inspired by Complex Recon Script written by @Insecurities (https://github.com/Insecurities)
+ * https://github.com/Insecurities/RubberDucky/wiki/Complex-Recon-Script
  */
 #include "DigiKeyboard.h"
 
