@@ -30,7 +30,7 @@ void loop() {
   //DigiKeyboard.sendKeyStroke(KEY_ENTER);
   //DigiKeyboard.delay(500);
   //String to be spoken by the pc
-  DigiKeyboard.print("$speak.Speak(\"David loves Alexandra very very very very much!\")");
+  DigiKeyboard.print("$speak.Speak(\"Dkkkkkk!\")");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(100);
   DigiKeyboard.print("exit");
